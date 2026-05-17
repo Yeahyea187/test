@@ -1,0 +1,15 @@
+#for unset
+git config --global --unset user.name
+git config --global --unset user.email
+
+
+##for set
+git config --global user.name "Shadman-Shakib-Nihan"
+git config --global user.email "nihanshadman1@gmail.com"
+
+##for set
+git config --global user.name "Yeahyea187"
+git config --global user.email "yeahyeajam@gmail"
+
+##Verify
+git config --global --list
